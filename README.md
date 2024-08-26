@@ -11,3 +11,5 @@ Build a model that can identify the creditworthiness of borrowers.
 2) Create a Logistic Regression Model with the Original Data
 
 3) Write a Credit Risk Analysis Report
+
+CREDIT RISK ANALYSIS REPORT: 
