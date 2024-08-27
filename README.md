@@ -2,7 +2,7 @@
 
 Assignment: Develop a model to assess the creditworthiness of borrowers.
 
-Steps to Build the Model:
+# Steps to Build the Model:
 
 1)Data Preprocessing
 
@@ -25,7 +25,7 @@ Assessed the model's performance using the testing data.
 Created a confusion matrix to visualize the model's predictions.
 
 
-Credit Risk Analysis Report:
+# Credit Risk Analysis Report:
 
 
 Introduction:
