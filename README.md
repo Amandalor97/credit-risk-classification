@@ -1,4 +1,4 @@
-# credit-risk-classification
+# MODULE 20: credit-risk-classification
 
 Hello, in this repository you will find my homework for the Module 20 Challenge.
 
