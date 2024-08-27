@@ -25,4 +25,12 @@ STEPS TO CREATE THE MODEL:
 5)Prediction: Using confusion_matrix we generated a confusion matrix for the model.
 
 RESULTS: 
+-The model accurately predicted 18663 healthy loans and predicted 102 healthy loans as high-risk loans. 
+-The model accurately predicted 563 high-risk loans and predicted 56 high-risk loans as healthy loans.
+-Accuracy: 99%
+-Precision: 100% for healthy loans and 85% for high-risk loans
+-Recall: 99% for healthy loans and 91% for high-risk loans
 
+CONCLUSION:
+This machine learning model works very well and I would recommend the company to use it. However, I would also advise to pay attention to the prediction of high-risk loans because an imbalance of the dataset. 
+By using balanced data this machine learning would be highly effective. 
